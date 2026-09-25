@@ -1,0 +1,92 @@
+[
+  {
+    "currency_code": "NGN",
+    "currency_name": "Nigerian Naira",
+    "rate_to_usd": 0.00062,
+    "buy_rate_local": 0.00061,
+    "sell_rate_local": 0.00063,
+    "effective_date": "2025-01-01",
+    "source": "NexaBank Treasury"
+  },
+  {
+    "currency_code": "GHS",
+    "currency_name": "Ghanaian Cedi",
+    "rate_to_usd": 0.066,
+    "buy_rate_local": 0.065,
+    "sell_rate_local": 0.067,
+    "effective_date": "2025-01-01",
+    "source": "NexaBank Treasury"
+  },
+  {
+    "currency_code": "KES",
+    "currency_name": "Kenyan Shilling",
+    "rate_to_usd": 0.0077,
+    "buy_rate_local": 0.0076,
+    "sell_rate_local": 0.0078,
+    "effective_date": "2025-01-01",
+    "source": "NexaBank Treasury"
+  },
+  {
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "rate_to_usd": 0.055,
+    "buy_rate_local": 0.054,
+    "sell_rate_local": 0.056,
+    "effective_date": "2025-01-01",
+    "source": "NexaBank Treasury"
+  },
+  {
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "rate_to_usd": 1.0,
+    "buy_rate_local": 0.999,
+    "sell_rate_local": 1.001,
+    "effective_date": "2025-01-01",
+    "source": "NexaBank Treasury"
+  },
+  {
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "rate_to_usd": 1.27,
+    "buy_rate_local": 1.26,
+    "sell_rate_local": 1.28,
+    "effective_date": "2025-01-01",
+    "source": "NexaBank Treasury"
+  },
+  {
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "rate_to_usd": 1.08,
+    "buy_rate_local": 1.07,
+    "sell_rate_local": 1.09,
+    "effective_date": "2025-01-01",
+    "source": "NexaBank Treasury"
+  },
+  {
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "rate_to_usd": 0.272,
+    "buy_rate_local": 0.271,
+    "sell_rate_local": 0.273,
+    "effective_date": "2025-01-01",
+    "source": "NexaBank Treasury"
+  },
+  {
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "rate_to_usd": 0.73,
+    "buy_rate_local": 0.72,
+    "sell_rate_local": 0.74,
+    "effective_date": "2025-01-01",
+    "source": "NexaBank Treasury"
+  },
+  {
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "rate_to_usd": 0.0067,
+    "buy_rate_local": 0.0066,
+    "sell_rate_local": 0.0068,
+    "effective_date": "2025-01-01",
+    "source": "NexaBank Treasury"
+  }
+]

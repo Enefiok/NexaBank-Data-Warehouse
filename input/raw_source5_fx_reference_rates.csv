@@ -1,0 +1,11 @@
+currency_code,currency_name,rate_to_usd,buy_rate_local,sell_rate_local,effective_date,source
+NGN,Nigerian Naira,0.00062,0.00061,0.00063,2025-01-01,NexaBank Treasury
+GHS,Ghanaian Cedi,0.066,0.065,0.067,2025-01-01,NexaBank Treasury
+KES,Kenyan Shilling,0.0077,0.0076,0.0078,2025-01-01,NexaBank Treasury
+ZAR,South African Rand,0.055,0.054,0.056,2025-01-01,NexaBank Treasury
+USD,US Dollar,1.0,0.999,1.001,2025-01-01,NexaBank Treasury
+GBP,British Pound,1.27,1.26,1.28,2025-01-01,NexaBank Treasury
+EUR,Euro,1.08,1.07,1.09,2025-01-01,NexaBank Treasury
+AED,UAE Dirham,0.272,0.271,0.273,2025-01-01,NexaBank Treasury
+CAD,Canadian Dollar,0.73,0.72,0.74,2025-01-01,NexaBank Treasury
+JPY,Japanese Yen,0.0067,0.0066,0.0068,2025-01-01,NexaBank Treasury
