@@ -1,0 +1,21 @@
+full_name,country,account_type,kyc_status,account_open_date,days_since_account_opening
+"Benjamin Ferguson",Germany,Current,Failed,2015-01-05,4281
+"Steven Wheeler",Nigeria,Current,Verified,2015-02-01,4254
+"Jack Brown",Nigeria,Business,Failed,2015-03-05,4222
+"Nicholas Jones",Kenya,Corporate,Failed,2015-03-09,4218
+"Mark Bennett","United States",Corporate,Expired,2015-04-18,4178
+"Rodney Moore",Kenya,Savings,"Under Review",2015-05-28,4138
+"Daniel Thompson","South Africa",Business,"Under Review",2015-06-01,4134
+"Jonathan Mcdonald",Nigeria,Savings,Pending,2015-06-12,4123
+"Tara Garcia",Nigeria,Current,"Under Review",2015-06-25,4110
+"Laura Grant",Kenya,Savings,Failed,2015-07-15,4090
+"Dana Preston",Kenya,Business,Verified,2015-07-25,4080
+"Danielle Peterson",Ghana,Current,Failed,2015-08-20,4054
+"Clayton White",Germany,Business,Verified,2015-09-10,4033
+"Gary Murray",Nigeria,Current,Failed,2015-12-20,3932
+"Sara Fox",Ghana,Current,Pending,2016-04-30,3800
+"Lindsey Ellis",Nigeria,Business,Pending,2016-05-13,3787
+"Ryan Bullock","South Africa",Business,Verified,2016-06-04,3765
+"Alicia Hawkins",Germany,Current,Pending,2016-09-22,3655
+"Dawn Simmons",Kenya,Current,Expired,2016-10-09,3638
+"Erin Allen",Kenya,Savings,Pending,2016-12-25,3561
